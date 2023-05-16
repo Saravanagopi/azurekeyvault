@@ -1,0 +1,5 @@
+resource_group_name    = "rg-kv_terraform_np"
+location               = "West Europe"
+keyvault_name          = "testterraformkvnp"
+secret_name            = "DatabasePassword"
+secret_value           = "@Aa123456789!"
